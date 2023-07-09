@@ -1,0 +1,39 @@
+  /* h1,
+  p {
+      color: peru;
+  }
+
+  .text {
+      color: red;
+  }
+
+  #school {
+      color: blue;
+  }
+
+  .list>li {
+      color: palevioletred;
+  }
+
+  .text>span {
+      color: green;
+  }
+
+  #head {
+      color: magenta;
+  }
+
+  .heading {
+      color: blue;
+  }
+
+  .heading {
+      color: orange !important;
+  }
+
+  h1 {
+      color: red;
+  } */
+  h1{
+    background-color: rgba(230, 60, 30,0.5 );
+  }
